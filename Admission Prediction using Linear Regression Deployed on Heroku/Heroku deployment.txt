@@ -1,0 +1,10 @@
+# git init
+# git add .
+# git commit -m "initial commit"
+# heroku create
+# git remote -v
+# git push heroku master
+
+
+
+ https://secret-temple-69502.herokuapp.com/ 
